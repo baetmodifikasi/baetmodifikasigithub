@@ -1,0 +1,3 @@
+[2025-07-22] Project initialized
+[2025-07-22] Added script to fetch Bitcoin price from CoinDesk
+[2025-07-22] Added documentation and requirements
